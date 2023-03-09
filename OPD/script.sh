@@ -6,8 +6,8 @@ timestamp() {
 
 while true
 do
-  echo
-  echo
+  echo " "
+  echo " "
   echo "$(timestamp) commit..."
 
   git add черновик.txt
